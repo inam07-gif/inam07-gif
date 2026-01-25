@@ -43,6 +43,22 @@ Here are some ideas to get you started:
 
 ---
 
+## Technical Skills
+
+**Programming & Libraries**
+- Python  
+- NumPy  
+- Pandas  
+
+**Machine Learning & Analytics**
+- Scikit-learn  
+- Statistical Modeling  
+- Supervised & Unsupervised Learning  
+
+**Data Visualization**
+- Matplotlib  
+- Seaborn  
+
 ## 🔗 Connect with Me
 
 <p align="left">
