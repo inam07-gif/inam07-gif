@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Muhammed Inam Ul Haq
+# 👋 Hi, I'm Muhammed Inam Ul Haq  
 
-🎓 Pursuing **Data Science & Artificial Intelligence**  
-📊 Interested in **Machine Learning, Data Analysis, and AI**
+🎓 **Pursuing Data Science & Artificial Intelligence**  
+📊 Interested in **Machine Learning, Data Analysis, and AI-driven solutions**
 
 ---
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
 </p>
 
 ---
@@ -36,18 +37,31 @@ Here are some ideas to get you started:
 ## 🤖 Areas of Interest
 - Machine Learning  
 - Data Science  
+- Data Analysis  
 - Data Visualization  
-- Statistical Analysis  
+- Statistical Modeling  
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-inam-ul-haq-b2b235371)
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-inam-ul-haq-b2b235371">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/enaammmm_?igsh=NmF1dWtqOHRqc2sw">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 About Me
 
-I am a **Data Science & AI student** focused on building strong foundations in  
-**Python, Machine Learning, data preprocessing, and visualization**.
+I am a **Data Science & AI student** passionate about transforming **raw data into meaningful insights**.  
+I work primarily with **Python** and enjoy building **machine learning models**, performing **data analysis**, and creating clear, impactful **visualizations**.
+
+---
+
+⭐ *Consistent learning. Clean code. Better models.*
+
