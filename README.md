@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 ## 🧠 Tech Stack
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/> 
-<img src="https://skillicons.dev/icons?i=polars" height="50" alt="Polars" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matplotlib,polars" />
+  </a>
+</p>
 
 
 
