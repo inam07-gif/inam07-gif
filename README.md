@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" alt="Scikit-Learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
-  <img src="https://pola.rs/logo/polars-logo-dark.svg" width="60" alt="Polars"/>
+  <img src="https://raw.githubusercontent.com/pola-rs/polars/main/docs/source/_static/img/polars-logo-dark.svg" width="65" alt="Polars"/>
 </p>
 
 
