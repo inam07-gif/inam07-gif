@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" style="margin-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" style="margin-right: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn" style="margin-right: 5px;" />
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_logo_icon_transparent.png" height="40" alt="polars" />
+  <img src="https://cdn.simpleicons.org/polars/CD792C" height="40" alt="polars" />
 </p>
 
 
