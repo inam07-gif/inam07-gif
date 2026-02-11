@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 ## 🧠 Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matplotlib,polars" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  style="margin-right: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" style="margin-right: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" style="margin-right: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_logo_icon_transparent.png" height="40" alt="polars" />
 </p>
 
 
