@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 **Programming & Libraries**
 - Python  
 - NumPy  
-- Pandas  
+- Pandas
+- Seaborn
 
 **Machine Learning & Analytics**
 - Scikit-learn  
