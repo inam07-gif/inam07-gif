@@ -69,7 +69,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:inamm0225@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-inamm0225%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+       width="40" 
+       height="40" 
+       alt="Gmail"/>
 </a>
 </p>
 
