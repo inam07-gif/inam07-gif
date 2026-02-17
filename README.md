@@ -68,6 +68,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/enaammmm_?igsh=NmF1dWtqOHRqc2sw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
+  <a href="mailto:inamm0225@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-inamm0225%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
