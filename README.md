@@ -68,11 +68,13 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/enaammmm_?igsh=NmF1dWtqOHRqc2sw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:inamm0225@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-       width="40" 
-       height="40" 
-       alt="Gmail"/>
+  <a href="mailto:inamm0225@gmail.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Gmail-inamm0225%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"
+    alt="Gmail"
+    height="28"
+    style="margin: 0 4px; vertical-align: middle;"
+  />
 </a>
 </p>
 
