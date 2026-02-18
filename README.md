@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Muhammed Inam Ul Haq  
 
 🎓 **Pursuing Data Science & Artificial Intelligence**  
-📊 Interested in **Machine Learning, Data Analysis, and AI-driven solutions**
+📊 Interested in **Machine Learning, Data Scientist,Model Building**
 
 ---
 
