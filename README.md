@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Muhammed Inam Ul Haq  
 
-🎓 **Pursuing Data Science & Artificial Intelligence**  
-📊 Interested in **Machine Learning, Data Scientist,Model Building**
+🎓 **Pursuing Data Science & Artificial Intelligence.**  
+📊 Interested in **Machine Learning, Data Scientist, Model Building.**
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  style="margin-right: 5px;" />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🤖 Areas of Interest
+## 🤖 Areas of Interest:
 - Machine Learning  
 - Data Science  
 - Data Analysis  
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Technical Skills
+## Technical Skills:
 
 **Programming & Libraries**
 - Python  
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - Matplotlib  
 - Seaborn  
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-inam-ul-haq-b2b235371">
@@ -82,8 +82,9 @@ Here are some ideas to get you started:
 
 ## 💻 About Me
 
-I am a **Data Science & AI student** passionate about transforming **raw data into meaningful insights**.  
-I work primarily with **Python** and enjoy building **machine learning models**, performing **data analysis**, and creating clear, impactful **visualizations**.
+I am a **Data Science & AI student**.  
+I work primarily with **Python** and enjoy building **Machine Learning Models**, performing **Data Analysis**, and creating clear, impactful **Visualizations**.
+
 
 ---
 
