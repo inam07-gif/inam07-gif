@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 - Data Analysis  
 - Data Visualization  
 - Statistical Modeling  
-
 ---
 ## 📊 GitHub Stats
 
