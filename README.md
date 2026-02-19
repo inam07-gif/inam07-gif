@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 📊 Interested in **Machine Learning, Data Scientist, Model Building.**
 
 ---
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inam07-gif&show_icons=true&theme=tokyonight" />
 
 ## 🧠 Tech Stack:
 
