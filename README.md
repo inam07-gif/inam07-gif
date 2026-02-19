@@ -41,7 +41,28 @@ Here are some ideas to get you started:
 - Statistical Modeling  
 
 ---
+## 📊 GitHub Stats
 
+![Inam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inam07-gif&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inam07-gif&layout=compact&theme=radical&hide_border=true)
+
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=inam07-gif&theme=radical&hide_border=true)
+
+---
+## 🚀 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inam07-gif&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inam07-gif&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=inam07-gif&theme=radical&hide_border=true"/>
+</p>
+
+---
 ## Technical Skills:
 
 **Programming & Libraries**
