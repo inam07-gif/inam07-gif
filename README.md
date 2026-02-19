@@ -40,11 +40,7 @@ Here are some ideas to get you started:
 - Data Visualization  
 - Statistical Modeling  
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=inam07-gif&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inam07-gif&layout=compact&theme=tokyonight&cache_seconds=1800" />
+## 📊 GitHub Stats:
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=inam07-gif&theme=radical&hide_border=true)
