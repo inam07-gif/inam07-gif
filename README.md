@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 **Machine Learning & Analytics**
 - Scikit-learn  
 - Statistical Modeling  
-- Supervised & Unsupervised Learning  
+- Supervised Learning
+  
 
 **Data Visualization**
 - Matplotlib  
